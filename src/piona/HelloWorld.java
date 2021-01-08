@@ -1,4 +1,4 @@
-package piona;
+package piona
 
 /**
  * HelloWorld class.
